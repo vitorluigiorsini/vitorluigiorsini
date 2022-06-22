@@ -21,6 +21,6 @@ Moro em Ouro Branco - MG 🌐
 
 ## Meus contatos
 
-- GitHub @vitororsini
+- GitHub @vitorluigiorsini
 - LinkedIn in/vitorluigiorsini
 - Email vitorluigiorsini@gmail.com
