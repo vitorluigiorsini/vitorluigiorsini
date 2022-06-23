@@ -41,8 +41,8 @@ I'm a Civil Engineer, and i'm currently studying to be the best full-stack web/m
 ## ⚙ &nbsp;GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorluigiorsini&show_icons=true&theme=midnight-purple" alt="vitorluigiorsini's stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorluigiorsini&layout=compact&theme=midnight-purple" alt="vitorluigiorsini's most languages"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vitorluigiorsini&show_icons=true&theme=midnight-purple" alt="vitorluigiorsini's stats"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorluigiorsini&layout=compact&theme=midnight-purple" alt="vitorluigiorsini's most languages"/>
 </p>
 
 <br><br>
