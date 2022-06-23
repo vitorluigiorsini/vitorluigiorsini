@@ -47,7 +47,7 @@ I'm a Civil Engineer, and i'm currently studying to be the best full-stack web/m
 
 <br><br>
 
-## 📲 &nbsp;My Contacts
+## 📱 &nbsp;My Contacts
 
 <p align="left">
 <a href="https://github.com/vitorluigiorsini" target="_blank">
@@ -60,3 +60,5 @@ I'm a Civil Engineer, and i'm currently studying to be the best full-stack web/m
   <img align="center" src="https://img.shields.io/badge/-vitorluigiorsini-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 </p>
+
+![Snake animation](https://github.com/vitorluigiorsini/vitorluigiorsini/blob/output/github-contribution-grid-snake.svg)
