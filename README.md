@@ -4,7 +4,8 @@
 
 ## 🧔‍♂️ &nbsp;About me
 
-I'm a Civil Engineer, and i'm currently studying to be the best full-stack web/mobile developer that i can be 🤙
+I'm a Full Stack Web Developer with a Civil Engineer degree. I am currently in career transition, and in constant development of my stacks.
+Please, feel free to leave comments or suggestions, or call me to chat. 🤙
 
 <br><br>
 
