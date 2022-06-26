@@ -18,8 +18,6 @@ I'm a Civil Engineer, and i'm currently studying to be the best full-stack web/m
 
 - 🏀 Play basketball
 
-- 👨‍🍳 Cook
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
