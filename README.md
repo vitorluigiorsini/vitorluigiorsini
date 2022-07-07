@@ -1,6 +1,6 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/vitorluigiorsini/0fd6a71f95de39204160d69a3469d7f3/raw/eea9bd277f66776d391b975dd9155c136a944fb2/githubcard.svg" alt="Profile card">
-<h1 align="left">Hi <img width="30em" height="30em" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">, I'm Vitor Orsini</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vitorluigiorsini&color=blueviolet" alt="Profile views" /> </p>
+<img src="https://raw.githubusercontent.com/gist/vitorluigiorsini/0fd6a71f95de39204160d69a3469d7f3/raw/eea9bd277f66776d391b975dd9155c136a944fb2/githubcard.svg" alt="Profile card" align="right" height="590px"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"/>, I'm Vitor Orsini</h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=vitorluigiorsini&color=blueviolet" alt="Profile views"/></p>
 
 ## 🧔‍♂️ &nbsp;About me
 
@@ -34,6 +34,7 @@ Please, feel free to leave comments or suggestions, or call me to chat. 🤙
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma)&nbsp;
   
 <br><br>
 
