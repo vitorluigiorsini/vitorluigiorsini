@@ -2,16 +2,12 @@
 
 ### I'm a Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), `open to work!`
 
-<br>
-
 ## 🎮 Hobbies
 
 - 👨‍💻 Study tech, code and solve challenges
 - 🎸 Play guitar
 - 🎥 Watch tv shows
 - 🏀 Play basketball
-
-<br>
 
 ## ⚙ GitHub Analytics
 
@@ -20,8 +16,6 @@
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorluigiorsini&layout=compact&theme=midnight-purple" alt="vitorluigiorsini's most languages"/>
 </p>
-
-<br>
 
 ## 🛠 Tech Stack
 
@@ -41,8 +35,6 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-  
-<br>
 
 ## 📱 My Contacts
 
@@ -53,14 +45,10 @@
 <a href="https://linkedin.com/in/vitorluigiorsini" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="mailto:vitorluigiorsini@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
-</a>
 <a href="http://api.whatsapp.com/send?phone=31993474431" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
 </a>
+<a href="mailto:vitorluigiorsini@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-vitorluigiorsini@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
 </p>
-
-<br>
-
-![Snake animation](https://github.com/vitorluigiorsini/vitorluigiorsini/blob/output/github-contribution-grid-snake.svg)
