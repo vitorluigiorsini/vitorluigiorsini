@@ -1,26 +1,18 @@
 # Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"/>, I'm Vitor Orsini
 
-### I'm a Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), `open to work!`
+#### I'm a Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), `open to work!`
 
-## 🎮 Hobbies
-
-- 👨‍💻 Study tech, code and solve challenges
-- 🎸 Play guitar
-- 🎥 Watch tv shows
-- 🏀 Play basketball
-
-## ⚙ GitHub Analytics
-
-<p align="left">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitorluigiorsini&show_icons=true&theme=midnight-purple" alt="vitorluigiorsini's stats"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorluigiorsini&layout=compact&theme=midnight-purple" alt="vitorluigiorsini's most languages"/>
-</p>
+## 🚀 About Me
+- 👨‍💻 I love to learn about technology
+- 📚 I'm currently studying `React`, `Typescript` and `Node.Js`
+- 🎸 I like to play guitar
+- 🎥 I like to watch tv shows
+- 💪 I like to practice sports
+- 🔥 Fun fact: i'm introverted
 
 ## 🛠 Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![PostCSS](https://img.shields.io/badge/-PostCSS-05122A?style=flat&logo=postcss)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -38,17 +30,13 @@
 
 ## 📱 My Contacts
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorluigiorsini)
+[![ghatsapp](https://img.shields.io/badge/whatsapp-24CA62?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=31993474431)
+[![gmail](https://img.shields.io/badge/vitorluigiorsini@gmail.com-F7F7F7?style=for-the-badge&logo=gmail&logoColor=C6352A)](mailto:vitorluigiorsini@gmail.com)
+
+## ⚙ GitHub Analytics
 <p align="left">
-<a href="https://github.com/vitorluigiorsini" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="github"/>
-</a>
-<a href="https://linkedin.com/in/vitorluigiorsini" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="http://api.whatsapp.com/send?phone=31993474431" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
-</a>
-<a href="mailto:vitorluigiorsini@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-vitorluigiorsini@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
-</a>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitorluigiorsini&show_icons=true&theme=midnight-purple" alt="vitorluigiorsini's stats"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorluigiorsini&layout=compact&theme=midnight-purple" alt="vitorluigiorsini's most languages"/>
 </p>
