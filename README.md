@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"/>, I'm Vitor Orsini
 
-#### I'm a Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), `open to work!`
+#### I'm a Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), `working at Ctrl S`
 
 ## 🚀 About Me
 - 👨‍💻 I love to learn about technology
@@ -11,20 +11,13 @@
 - 🔥 Fun fact: i'm introverted
 
 ## 🛠 Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![PostCSS](https://img.shields.io/badge/-PostCSS-05122A?style=flat&logo=postcss)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Serverless](https://img.shields.io/badge/-Serverless-05122A?style=flat&logo=serverless)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
-![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
