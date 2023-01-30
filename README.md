@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"/>, I'm Vitor Orsini
 
-#### I'm a Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), working at [Ctrl Saúde](https://www.linkedin.com/company/ctrl-saude/)
+#### I'm a Junior Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), working at [Ctrl Saúde](https://www.linkedin.com/company/ctrl-saude/)
 
 ## 🚀 About Me
 - 👨‍💻 I love to learn about technology
