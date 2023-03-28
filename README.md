@@ -1,10 +1,10 @@
-# Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"/>, I'm Vitor Orsini
+# Hi, I'm Vitor
 
-#### I'm a Junior Full-Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), working at [Ctrl Saúde](https://www.linkedin.com/company/ctrl-saude/)
+#### I'm a Junior Full Stack Developer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6), working at [Ctrl Saúde](https://www.linkedin.com/company/ctrl-saude/)
 
 ## 🚀 About Me
 - 👨‍💻 I love to learn about technology
-- 📚 I'm currently studying `React`, `Typescript` and `Node.Js`
+- 📚 I'm currently studying `React`, `Typescript`, `Node.Js` and `AWS`
 - 🎸 I like to play guitar
 - 🎥 I like to watch tv shows
 - 💪 I like to practice sports
@@ -19,7 +19,6 @@
 ![Serverless](https://img.shields.io/badge/-Serverless-05122A?style=flat&logo=serverless)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 ## 📱 My Contacts
 
