@@ -4,15 +4,15 @@
 
 ## 🚀 About Me
 - 👨‍💻 I love to learn about technology
-- 📚 I'm currently studying `React`, `Typescript`, `Node.Js` and `AWS`
+- 📚 I'm currently studying `Vue.js`, `Typescript`, `Node.js` and `AWS`
 - 🎸 I like to play guitar
-- 🎥 I like to watch tv shows
 - 💪 I like to practice sports
 
 ## 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
