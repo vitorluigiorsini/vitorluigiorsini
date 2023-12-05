@@ -3,10 +3,10 @@
 #### I'm a Software Engineer from [Ouro Branco - MG](https://goo.gl/maps/hhVumtA17UZT7CFS6)
 
 ## 🚀 About Me
-- 👨‍💻 I love to learn about technology
-- 📚 I'm currently studying `Vue.js`, `Typescript`, `Node.js` and `AWS`
-- 🎸 I like to play guitar
-- 💪 I like to practice sports
+- 👨‍💻 I love technology
+- 📖 I'm currently studying `React`, `Typescript`, `Node.js`, `Hexagonal Architecture` and `Microservices`
+- 💡 I'm a self-taught
+- 🚴‍♂ I like to practice sports
 
 ## 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
