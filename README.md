@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - 👨‍💻 I love technology
-- 📖 I'm currently studying `React`, `Typescript`, `Node.js`, `Hexagonal Architecture` and `Microservices`
+- 📖 I'm currently studying `React`, `Typescript`, `Node.js`, and `Clean Architecture`
 - 💡 I'm a self-taught
 - 🚴‍♂ I like to practice sports
 
