@@ -24,7 +24,7 @@
 
 ## 📱 My Contacts
 
-[![portfolio](https://img.shields.io/badge/portfolio-352565?style=for-the-badge&logo=vercel&logoColor=white)](https://vitororsini.vercel.app/)
+[![portfolio](https://img.shields.io/badge/portfolio-352565?style=for-the-badge&logo=vercel&logoColor=white)](https://vitororsinidev.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorluigiorsini)
 [![ghatsapp](https://img.shields.io/badge/whatsapp-24CA62?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=31993474431)
 [![gmail](https://img.shields.io/badge/vitorluigiorsini@gmail.com-F7F7F7?style=for-the-badge&logo=gmail&logoColor=C6352A)](mailto:vitorluigiorsini@gmail.com)
